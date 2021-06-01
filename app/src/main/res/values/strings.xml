@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!--    Categories names-->
+    <string name="food_category">Food</string>
+    <string name="place_category">Place</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="restaurant_category">Restaurant</string>
+
+    <!--    Address of the places mentioned-->
+    <string name="dutch_garden">Dutch Garden Road,\nNanpura\nSurat, Gujarat</string>
+    <string name="dumas_beach">Dumas Road, \nSurat, Gujarat</string>
+    <string name="khudawand_khan">"Sayedpura \nSurat, Gujarat"</string>
+    <string name="iskcon_temple">"Ashram Rd,\nJahangir Pura,\nSurat, Gujarat"</string>
+    <string name="suvali_beach">"Suvali Beach Road,\nHazira,\nSurat, Gujarat"</string>
+    <string name="surat_castle">"Near dakka ovara,\nmakkai pull,\nChowk Bazar,\nSurat, Gujarat"</string>
+    <string name="botanical_garden">"Ugat,\nBhesan Rd,\nJahangirabad,\nSurat, Gujarat"</string>
+
+    <string name="vr_mall">"Dumas Rd,\nMagdalla,\nSurat, Gujarat"</string>
+    <string name="rahul_raj">"Dumas Road,\nPiplod,\nSurat, Gujarat"</string>
+    <string name="iscon_mall">"Opposite Rajhans Theater,\nPiplod,\nSurat, Gujarat"</string>
+    <string name="central_mall">"Opposite Valentine Multiplex,\nDumas Road,\nSurat, Gujarat"</string>
+
+    <string name="sasumaa">"Mangal Deep Complex,\nOpp. Vanita Vishram Ground,\nMajura Gate,\nSurat, Gujarat"</string>
+    <string name="sai_dosa">Opp. Valentine,\nDumas Road,\nSurat, Gujarat</string>
+    <string name="mysore_cafe">"Daruwalla Building Besides Athwa Petrol Pump,\nAthwalines,\nSurat, Gujarat"</string>
+    <string name="only_dhosa">"Avalon The Commercial Hub Nr. Samast Patidar Samaj's Wadi,\n" + "Katargam,\nSurat, <Gujarat></Gujarat>"</string>
+    <string name="ramji">"12/3173, 3174, Kaskiwadi Baghal Road,\nBhagal Char Rasta,\nSurat, Gujarat"</string>
+
+    <!--Info of the places-->
+    <string name="dutuch_garden_inf">Dutch Garden is located in Nanpura and is one of the most popular tourist sites in Surat.
+        Besides beauty, the garden has got a lot of history behind it to fascinate as well as refresh the busy city souls. The garden
+        has been designed in a European style. The well-planned and well-maintained garden gives a wonderful recreational space to the
+        locals as well as tourists. People use it for morning and evening walks, and to have get togethers or to enjoy a quiet time alone
+        with oneself in the serenity of the atmosphere. River Tapi flowing at one side of the park adds immensely to the beauty of the park
+        and helps the visitors unwind and feel good.\n\n
+
+        The Dutch Garden is also the resting place of certain English and Dutch explorers who landed and settled in Surat. The most remarkable
+        mausoleum is that of Baron Adrian Van Reed. He was the person who is believed to have established the first Dutch port for trading in
+        Surat: Reed died in 1691. The interesting thing is that these impressive burial sites also enhance the beauty and brilliance of the place.</string>
+
+
+    <string name="dumas_beach_inf">Along the Arabian Sea and about 13 miles southwest of Surat, nestled in the Western Indian state of Gujarat,
+        lies the Dumas Beach. Unequivocally, it is one of the most beautiful and scenic beaches, but amidst all the beauty lies a paranormal
+        mystery, which awaits to be discovered.\n\n
+        While this seemingly mysterious beach in the South Gujarat is notorious for its paranormal activity, another thing it’s famous for is
+        its black sand. According to folklore, the beach was used as a burial ground for Hindus and because of the remains of the people
+        supposedly buried here, it is said to result in black sand. Furthermore, some say that the departed souls of the evil spirits roam the
+        beach at midnight, which attributed to the formation of black sand and made it a haunted spot.</string>
+
+    <string name="khudawand_khan_inf">The Tomb of Khudawand Khan is located near the Chakla Bazaar. The tomb was built on the honour of
+        Khudawand Khan, a former Governor of Surat. The tomb is beautiful and is made using Islamic caricature and architecture. There is a
+        plaque with information about the life of Khudawand Khan near the tomb.</string>
+
+    <string name="iskcon_temple_inf">The Vedic scriptures state that spiritual life begins when one inquires into the nature of the absolute
+        truth, the Supreme Godhead. Gaudiya Vaisnavas are monotheists and know the personality of Godhead as Krishna, the All-attractive. But
+        it is also recognised that the Supreme has unlimited names such as Rama, Buddha, Vishnu, Jehovah, Allah, etc. The ultimate goal of
+        Gaudiya Vaisnavism is to develop a loving relationship with the Supreme Godhead. To understand knowledge of self-realisation one must
+        approach a genuine spiritual masterThe Vedas also.</string>
+
+    <string name="suvali_beach_inf">Suvali Beach, a calm and serene beach, is situated at a distance of 20 km from Surat. Mostly visited by
+        solitude seekers, the beach is slowly developing into a tourist spot. Located away from the heart of the city, the pristine beach
+        offers a perfect getaway for the city people and other tourists away from the screeching noise and the fast-moving life of the city.\n\n
+
+        The beach is situated in a calm environment where one can quite distinctly identify the sound of the gentle waves wash up the shoreline.
+        It is a black sand beach which goes on miles along. In addition to this, the texture of the sand is soft, and one can easily dig his/her
+        feet and toes inside while standing or taking a stroll on the beach. Since there are not many people visiting the beach, you get to
+        relax and experience solitude there. There are no vendors or restaurants situated near the beach thereby providing you with complete
+        isolation.</string>
+
+    <string name="surat_castle_inf">A historic fort, Surat Castle was built in the 18th century to safeguard the city from the Portuguese.
+        Today, the fort stands tall on the bank of the Tapi River. Visit the fort if you love history and old architecture. While you are
+        at the castle, enrol yourself for the video presentation, it takes you back in time and shows you the might of Gujarat’s Sultanate.</string>
+
+    <string name="botanical_garden_inf">The Sneh Rashmi Botanical Garden in Surat is a popular hangout spot for locals. The parks is great place
+        to visit to get away from the noise of city life. Surrounded by gorgeous trees, the garden is home to wide walking tracks, a pond and
+        many exotic plants.\n\n
+
+        There is plenty to do at the park, children can enjoy the mini train rides, and couples can spend quality time with each other, enjoying
+        nature. Fitness enthusiasts can jog or take long walks on the pathways at the Sneh Rashmi Botanical Garden.</string>
+
+    <!--    Food inf-->
+    <string name="dabeli">It\'s like Vada Pav with a major twist!</string>
+    <string name="fafda">The Dream Cheat Day Breakfast!</string>
+    <string name="locho">The snack you couldn\'t say no to!</string>
+    <string name="khaman">The Sponge Snack!</string>
+    <string name="gota">The Gujarati Pakoras!</string>
+    <string name="khandvi">Soft Layers</string>
+    <string name="muthiya">The snack you couldn\'t say no to!</string>
+</resources>
